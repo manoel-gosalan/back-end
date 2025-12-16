@@ -44,34 +44,6 @@ This repository documents my backend development learning journey from December 
 - ⏳ Open source contributions
 - ⏳ Portfolio refinement
 
-## 📂 Repository Structure
-```
-backend-journey/
-├── python/
-│   ├── fundamentals/
-│   │   ├── mundo-1/
-│   │   ├── mundo-2/
-│   │   └── mundo-3/
-│   ├── projects/
-│   │   ├── todo-api/
-│   │   ├── authentication-system/
-│   │   └── ecommerce-api/
-│   └── exercises/
-├── java/
-│   ├── fundamentals/
-│   ├── spring-boot/
-│   └── projects/
-├── sql/
-│   ├── queries/
-│   └── database-design/
-├── docker/
-├── notes/
-│   ├── concepts.md
-│   ├── best-practices.md
-│   └── resources.md
-└── README.md
-```
-
 ## 🛠️ Tech Stack
 
 ### Currently Learning
@@ -108,21 +80,6 @@ backend-journey/
 | Feb 2026 | Python World 2 | ⏳ Planned | - |
 | Mar 2026 | Python World 3 | ⏳ Planned | - |
 | Apr 2026 | Backend Fundamentals | ⏳ Planned | - |
-
-## 🎯 Current Focus (December 2025)
-```python
-# Week 1-2: Getting Started
-tasks = [
-    "Setup development environment",
-    "Learn Git basics",
-    "Start Python World 1 (Aulas 1-7)",
-    "Daily commits challenge"
-]
-
-# Study Schedule
-monday_to_friday = "2-3 hours Python + 30min English"
-weekend = "4-6 hours Python + language study"
-```
 
 ## 💡 Key Principles
 

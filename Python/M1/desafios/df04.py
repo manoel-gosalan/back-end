@@ -14,3 +14,4 @@ print(f'    Começa com maiúscula? {digitacao_do_usuario.istitle()}')
 print(f'    Só tem espaços? {digitacao_do_usuario.isspace()}')
 
 
+   

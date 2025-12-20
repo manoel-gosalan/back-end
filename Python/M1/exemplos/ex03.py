@@ -7,6 +7,7 @@ Objetivo: Dominar os 7 operadores aritméticos e ordem de precedência
 ==============================================================================
 """
 
+
 print("=" * 70)
 print("🚀 OPERADORES ARITMÉTICOS DO PYTHON")
 print("=" * 70)
@@ -208,7 +209,7 @@ calculo5 = 10 + 5 * 2 ** 3 - 8 / 2
 print(f"\n5. Expressão complexa:")
 print(f"   10 + 5 * 2 ** 3 - 8 / 2 = {calculo5}")
 print(f"   Passo a passo:")
-print(f"   → 2 ** 3 = 8")
+print("   → 2 ** 3 = 8")
 print(f"   → 5 * 8 = 40")
 print(f"   → 8 / 2 = 4.0")
 print(f"   → 10 + 40 - 4.0 = {calculo5}")

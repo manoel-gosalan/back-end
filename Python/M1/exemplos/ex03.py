@@ -109,7 +109,7 @@ print(f"{dividendo} // {divisor} = {resultado} (tipo: {type(resultado).__name__}
 a = 17
 b = 5
 
-print(f"\nComparação:")
+print("\nComparação:")
 print(f"{a} / {b} = {a / b:.2f}")
 print(f"{a} // {b} = {a // b}")
 
@@ -283,5 +283,5 @@ PRECEDÊNCIA (maior → menor):
 """)
 
 print("=" * 70)
-print("✅ FIM - Agora você domina os operadores aritméticos!")
+print("✅ FIM DO EXERCÍCIO")
 print("=" * 70)

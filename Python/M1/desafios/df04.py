@@ -12,6 +12,3 @@ print(f'    Está em maiúscula? {digitacao_do_usuario.isupper()}')
 print(f'    Está em minúscula? {digitacao_do_usuario.islower()}')
 print(f'    Começa com maiúscula? {digitacao_do_usuario.istitle()}')
 print(f'    Só tem espaços? {digitacao_do_usuario.isspace()}')
-
-
-   
